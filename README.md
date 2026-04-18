@@ -8,7 +8,8 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-hub24)
-
+https://mail.google.com/mail/u/1/#inbox
+https://www.facebook.com/share/1CSko5vjmx/?mibextid=wwXIfr
 ---
 
 ## 💻 Tech Stack:
