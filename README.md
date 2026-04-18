@@ -25,8 +25,7 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,mongodb,git,github" />
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,mongodb,react,nextjs,git,github" />
+
 --<>--
 
 ## 📊 GitHub Stats:
