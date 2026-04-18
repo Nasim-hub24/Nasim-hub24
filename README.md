@@ -4,7 +4,7 @@
 Hi, I'm Adnan — a passionate developer focused on **C++**, **Data Structures & Algorithms**, and **Full Stack Web Development**.  
 I enjoy writing clean, efficient code and building projects that solve real-world problems.
 
----
+--<>--
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-hub24)
@@ -16,6 +16,8 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+--<>--
+
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -23,8 +25,9 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,mongodb,react,nextjs,git,github" />
+--<>--
 
 ## 📊 GitHub Stats:
 
@@ -45,7 +48,7 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 - 🔹 **Dynamic-Programming** – DP problem collection  
 - 🔹 **Data-Structure-with-phitron** – Data structures implementation  
 
----
+--<>--
 
 ## 🎯 Goals:
 - Master Data Structures & Algorithms  
@@ -53,6 +56,6 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 - Build scalable web apps  
 - Contribute to open source  
 
----
+--<>--
 
 ⭐ *"Building efficient and scalable solutions"*
