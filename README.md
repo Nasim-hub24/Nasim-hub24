@@ -15,7 +15,6 @@ I enjoy writing clean, efficient code and building projects that solve real-worl
 <a href="https://mail.google.com/mail/u/1/#inbox">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
----
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
