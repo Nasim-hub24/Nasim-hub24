@@ -4,6 +4,15 @@
 Hi, I'm Adnan — a passionate developer focused on **C++**, **Data Structures & Algorithms**, and **Full Stack Web Development**.  
 I enjoy writing clean, efficient code and building projects that solve real-world problems.
 
+# ⚽ FIFA World Cup 2026
+
+The greatest show on Earth is here! 🌎🏆
+
+Football is more than a game—it's passion, unity, and unforgettable moments.
+
+Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the love for football remains forever. ❤️⚽
+
+#WorldCup2026 #Football #VamosBrasil 🇧🇷🏆
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-hub24)
