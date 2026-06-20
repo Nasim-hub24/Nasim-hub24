@@ -13,6 +13,15 @@ Football is more than a game—it's passion, unity, and unforgettable moments.
 Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the love for football remains forever. ❤️⚽
 
 #WorldCup2026 #Football #VamosBrasil 🇧🇷🏆
+## 📫 Contact Me
+
+📧 Email: ahmednasim2487@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/adnan-ahmed-nasim-5153bb418
+
+💻 LeetCode: https://leetcode.com/u/AhmedNasm/
+
+📘 Facebook: https://www.facebook.com/share/1EYunZqOA7/
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-hub24)
