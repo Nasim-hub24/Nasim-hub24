@@ -15,23 +15,6 @@ Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the
 #WorldCup2026 #Football #VamosBrasil 🇧🇷🏆
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Nasim-hub24">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/AhmedNasm/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-</p>
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nasim-hub24)
@@ -41,6 +24,10 @@ Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the
 
 <a href="https://mail.google.com/mail/u/1/#inbox">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adnan-ahmed-nasim-5153bb418/?lipi=">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 
