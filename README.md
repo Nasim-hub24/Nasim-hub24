@@ -26,9 +26,7 @@ Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adnan-ahmed-nasim-5153bb418/?lipi=">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+
 
 
 ## 💻 Tech Stack:
