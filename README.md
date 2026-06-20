@@ -13,7 +13,7 @@ Football is more than a game—it's passion, unity, and unforgettable moments.
 Supporting my favorite team throughout the FIFA World Cup 2026. Win or lose, the love for football remains forever. ❤️⚽
 
 #WorldCup2026 #Football #VamosBrasil 🇧🇷🏆
-## 🌐 Connect with Me
+
 
 
 ## 🌐 Socials:
